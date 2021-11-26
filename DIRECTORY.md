@@ -195,6 +195,7 @@
             * [AutomorphicNumber](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/AutomorphicNumber.java)
             * [Average](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/Average.java)
             * [BinaryPow](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/BinaryPow.java)
+            * [BinomialCoefficient](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/BinomialCoefficient.java)
             * [Ceil](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/Ceil.java)
             * [CircularConvolutionFFT](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/CircularConvolutionFFT.java)
             * [Combinations](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/Combinations.java)
